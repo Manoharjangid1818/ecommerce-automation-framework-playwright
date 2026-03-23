@@ -42,6 +42,8 @@ Node.js
 Git & GitHub
 
 💡 Notes
-Uses Page Object Model (POM) for better maintainability.
-All locators and flows simulate real-world scenarios similar to Amazon/Flipkart.
-Auto push script helps commit changes automatically without manual Git commands.
+1. Uses Page Object Model (POM) for better maintainability.
+
+2. All locators and flows simulate real-world scenarios similar to Amazon/Flipkart.
+
+3. Auto push script helps commit changes automatically without manual Git commands.
